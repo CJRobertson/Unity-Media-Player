@@ -6,7 +6,7 @@ The music player currently requires a hardcoded path to a specific audio file. F
 <br>
 - You can find this public variable by clicking on the 'MediaPlayerUI_Canvas' gameobject-->Inspector-->'UI' script. The path you provide should be formatted similiarly to this example: *C:\\\Users\\\JohnSmith\\\Music\\\HelloWorld.mp3*
 
-- After providing a valid path to a music file in the inspector, you can begin playing in the editor to try out the funtionality. before the audio can play though, you'll need to click the 'Open' button in the Media Player UI. This will create a new media player instance pointing to the song you provided a path for.
+- After providing a valid path to a music file in the inspector, you can begin playing in the editor to try out the funtionality. Before the audio can play though, you'll need to click the 'Open' button in the Media Player UI. This will create a new media player instance pointing to the song you provided a path for.
 
 
 # Known Issues
