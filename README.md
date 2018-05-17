@@ -1,8 +1,8 @@
 # Unity-Media-Player
-A media player made in Unity3D that uses the Windows Multimedia API.
+A media player made in Unity3D that utilizes the Windows Multimedia API.
 <br>
 # About
-This is an extremely basic media player built in Unity3D utilizing the Windows Multimedia API (https://msdn.microsoft.com/en-us/library/windows/desktop/dd743883(v=vs.85).aspx). The media player is currently setup as a music player, but in the future will hopefully support video playback as well. 
+This is an extremely basic media player built in Unity3D (2018.1.0f2) utilizing the Windows Multimedia API (https://msdn.microsoft.com/en-us/library/windows/desktop/dd743883(v=vs.85).aspx). The media player is currently setup as a music player, but in the future will hopefully support video playback as well. 
 
 # How-To-Use
 The music player currently requires a hardcoded path to a specific audio file. For ease of use, there is a public string variable in the 'UI' script named 'Chosen Music File' that can be edited in the inspector. 
